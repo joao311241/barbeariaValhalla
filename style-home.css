@@ -1,5 +1,5 @@
 h1{
-    color: rgb(8, 133, 235);
+    color: rgb(110, 79, 43);
     display: inline;
     margin: 0 0 0 15px;
       
@@ -7,7 +7,7 @@ h1{
 
 
 body{
-    background-color: rgb(3, 31, 107);
+    background-color: rgb(71, 46, 9);
     text-align: center;
 }
 img{
@@ -15,11 +15,11 @@ img{
 }
 .naruto{
     text-decoration: nome;
-    color: rgb(88, 204, 250);
+    color: rgb(214, 164, 99);
 }
 
  p{
-    color: rgb(95, 183, 235);
+    color: rgb(143, 113, 74);
  }
  h1 img {
     width: 300px;

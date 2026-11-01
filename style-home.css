@@ -55,9 +55,10 @@ nav li {
     margin: 0 0 0 15px;
 }
 footer{
-    text-align: center;
     background-color: rgb(71, 46, 9);
-    padding: 40px 0;
+    height: 150px;
+    padding: 20px 0;
+    text-align: center;
 }
 footer img{
     width: 200px;

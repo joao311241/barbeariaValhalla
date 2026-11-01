@@ -17,7 +17,7 @@ nav a {
     font-weight: bold;
 }
 body{
-    background-color: rgb(143, 113, 74);
+    background-color: rgb(107, 82, 50);
     
 }
 .caixa{
@@ -69,16 +69,16 @@ h2{
     font-weight: bold;
     margin-top: 10px;
     font-style: oblique;
-    color: rgb(168, 198, 224);
+    color: rgb(71, 46, 9);
 }
 
 p{
-    color: rgb(168, 201, 230);
+    color: rgb(71, 46, 9);
 }
 
 footer{
     text-align: center;
-    background-color: rgb(15, 79, 255);
+    background-color: rgb(71, 46, 9);
     padding: 40px 0;
 }
 

@@ -1,5 +1,5 @@
 h1{
-    color: rgb(214, 164, 99);
+    color: rgb(71, 46, 9);
     display: inline;
     margin: 0 0 0 15px;
       
@@ -7,7 +7,7 @@ h1{
 
 
 body{
-    background-color: rgb(71, 46, 9);
+    background-color: rgb(143, 113, 74);
     text-align: center;
 }
 img{
@@ -19,7 +19,7 @@ img{
 }
 
  p{
-    color: rgb(143, 113, 74);
+    color: rgb(214, 164, 99);
  }
  h1 img {
     width: 300px;
@@ -45,7 +45,7 @@ nav a{
 }
 
 header{
-     background-color: rgb(15, 79, 255);
+     background-color: rgb(71, 46, 9);
     height: 150px;
     padding: 20px 0;
 }
@@ -56,7 +56,7 @@ nav li {
 }
 footer{
     text-align: center;
-    background-color: rgb(15, 79, 255);
+    background-color: rgb(71, 46, 9);
     padding: 40px 0;
 }
 form{
